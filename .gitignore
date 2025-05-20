@@ -1,0 +1,38 @@
+# Eclipse files
+/.classpath
+/.project
+/.settings/
+
+# Build folders
+/target/
+/bin/
+
+# Logs
+*.log
+
+# Cucumber reports (if generated)
+/reports/
+/cucumber-reports/
+
+# Test result files
+*.xml
+*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper files (if using Maven)
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# IntelliJ IDEA files (if used)
+/.idea/
+/*.iml
+
+# Credentials or sensitive config (if any)
+/src/test/resources/config.properties
+
+# Others
+*.class
