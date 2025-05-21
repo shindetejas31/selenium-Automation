@@ -15,7 +15,7 @@
 /cucumber-reports/
 
 # Test result files
-*.xml
+/target/**/*.xml
 *.json
 
 # OS generated files
